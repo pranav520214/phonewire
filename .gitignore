@@ -6,6 +6,13 @@ Thumbs.db
 node_modules/
 dist/
 build/
+.gradle/
+**/build/
+local.properties
 *.pyc
 __pycache__/
 .env
+.pytest_cache/
+*.db
+*.db-wal
+*.db-shm
