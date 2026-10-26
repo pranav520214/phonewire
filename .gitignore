@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build & Dependency artifacts
+node_modules/
+dist/
+build/
+*.pyc
+__pycache__/
+.env
